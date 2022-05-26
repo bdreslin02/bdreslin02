@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brandon!
-- 👀 I’m interested in human factors, human-computer interaction, human-machine interfaces, ergonomics, aircraft accident investigation, and programming.
+- 👀 I’m interested in human factors, human-computer interaction, human-machine interfaces, ergonomics, and programming.
 - 🌱 I’m currently learning HTML, CSS, and SQL. 
 - 📫 You can reach me at bdreslin@gmail.com.
 
