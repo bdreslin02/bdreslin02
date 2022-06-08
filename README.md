@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Brandon!
 - 👀 I’m interested in human factors, human-computer interaction, human-machine interfaces, UI/UX, and programming.
 - 👨🏽‍💻 Proficient in Python and Java.
-- 🌱 I’m currently learning HTML, CSS, and SQL.
+- 🌱 I’m currently learning HTML, CSS, and MySQL.
 - 📫 You can reach me at bdreslin@gmail.com.
 
 <!---
