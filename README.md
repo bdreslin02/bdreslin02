@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on ['A Fisherman's Life' Website](https://github.com/bdreslin02/website-project)
 
-- 👀 I’m interested in human factors, human-computer interaction, human-machine interfaces, and UI/UX.
+- 👀 I’m interested in **human factors, human-computer interaction, human-machine interfaces, and UI/UX.**
 
 - 👨🏽‍💻 Proficient in Python and Java.
 
@@ -20,6 +20,8 @@
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1P-RdtflPAnRHDdQxLFXE_eajVsAI-Hu6/view?usp=sharing)
 
 - ⚡ Fun fact: **I was contracted by General Motors to design an external human-machine interface prototype for their Level 2 autonomous vehicles.**
+
+***
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
