@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Brandon!</h1>
 <h3 align="center">Pursuing a computer programming specialist certificate with Java specialization.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bdreslin02&label=Profile%20views&color=0e75b6&style=flat" alt="bdreslin02" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bdreslin02&label=Profile%20views&color=0e75b6&style=flat" alt="bdreslin02" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bdreslin02" alt="bdreslin02" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bdreslin02" alt="bdreslin02" /></a> </p>
 
 - 🔭 I’m currently working on ['A Fisherman's Life' Website](https://github.com/bdreslin02/website-project)
 
