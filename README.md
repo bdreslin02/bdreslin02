@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **HTML, CSS, and SQL.**
 
-- 📫 How to reach me **bdresl2@live.spcollege.edu**
+- 📫 You can reach me at **bdresl2@live.spcollege.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1P-RdtflPAnRHDdQxLFXE_eajVsAI-Hu6/view?usp=sharing](https://drive.google.com/file/d/1P-RdtflPAnRHDdQxLFXE_eajVsAI-Hu6/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1P-RdtflPAnRHDdQxLFXE_eajVsAI-Hu6/view?usp=sharing)
 
 - ⚡ Fun fact: **I was contracted by General Motors to design an external human-machine interface prototype for their Level 2 autonomous vehicles.**
 
