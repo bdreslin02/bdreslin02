@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1P-RdtflPAnRHDdQxLFXE_eajVsAI-Hu6/view?usp=sharing](https://drive.google.com/file/d/1P-RdtflPAnRHDdQxLFXE_eajVsAI-Hu6/view?usp=sharing)
 
-- ⚡ Fun fact: **I was contracted by General Motors to design an external human-machine interface.**
+- ⚡ Fun fact: **I was contracted by General Motors to design an external human-machine interface prototype for their Level 2 autonomous vehicles.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
