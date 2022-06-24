@@ -13,7 +13,7 @@
 
 - 👨🏽‍💻 Proficient in Python and Java.
 
-- 🌱 I’m currently learning **HTML, CSS, and SQL.**
+- 🌱 I’m currently learning **HTML, CSS, and MySQL.**
 
 - 📫 You can reach me at **bdreslin@gmail.com**
 
