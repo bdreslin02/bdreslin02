@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1P-RdtflPAnRHDdQxLFXE_eajVsAI-Hu6/view?usp=sharing)
 
-- ⚡ Fun fact: **I was contracted by General Motors to design an external human-machine interface prototype for their Level 2 autonomous vehicles.**
+- ⚡ Fun fact: **I helped design an external human-machine interface prototype for General Motors' Level 2 autonomous vehicles.**
 
 ***
 
