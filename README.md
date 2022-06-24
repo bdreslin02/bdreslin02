@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, and SQL.**
 
-- 📫 You can reach me at **bdresl2@live.spcollege.edu**
+- 📫 You can reach me at **bdreslin@gmail.com**
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1P-RdtflPAnRHDdQxLFXE_eajVsAI-Hu6/view?usp=sharing)
 
