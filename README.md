@@ -11,7 +11,7 @@
 
 - 👀 I’m interested in **human factors, human-computer interaction, human-machine interfaces, and UI/UX.**
 
-- 👨🏽‍💻 Proficient in Python, Java, and MySQL.
+- 👨🏽‍💻 Proficient in **Python, Java, and MySQL.**
 
 - 🌱 I’m currently learning **HTML and CSS.**
 
