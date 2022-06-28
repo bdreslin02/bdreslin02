@@ -11,9 +11,9 @@
 
 - 👀 I’m interested in **human factors, human-computer interaction, human-machine interfaces, and UI/UX.**
 
-- 👨🏽‍💻 Proficient in Python and Java.
+- 👨🏽‍💻 Proficient in Python, Java, and MySQL.
 
-- 🌱 I’m currently learning **HTML, CSS, and MySQL.**
+- 🌱 I’m currently learning **HTML and CSS.**
 
 - 📫 You can reach me at **bdreslin@gmail.com**
 
