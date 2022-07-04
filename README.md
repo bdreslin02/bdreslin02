@@ -7,7 +7,7 @@
 
 ***
 
-- 🔭 I’m currently working on ['A Fisherman's Life' Website](https://github.com/bdreslin02/website-project)
+- 🔭 I’m currently working on ['A Fisherman's Life' Website](https://afishermanslife.elementfx.com/index.html)
 
 - 👀 I’m interested in **human factors, human-computer interaction, human-machine interfaces, and UI/UX.**
 
