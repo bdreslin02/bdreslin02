@@ -7,7 +7,7 @@
 
 ***
 
-- 🔭 I’m currently working on [my consulting business website](https://www.dreslinconsult.com/)
+- 🔭 I’m currently working on [my consulting business website](https://www.dreslinconsult.com/).
 
 - 👀 I’m interested in **human factors, human-computer interaction, human-machine interfaces, and UI/UX.**
 
@@ -15,11 +15,11 @@
 
 - 🌱 I’m currently learning **JavaScript, jQuery, and SCSS.**
 
-- 📫 You can reach me at **bdreslin@gmail.com**
+- 📫 You can reach me at **bdreslin@gmail.com**.
 
-- 📄 Know about my experiences: [Résumé](https://drive.google.com/file/d/1D8X2rqL4jmTxK34kvVU40CcoBlFIa64W/view?usp=sharing)
+- 📄 Know about my experiences: [Résumé](https://drive.google.com/file/d/1D8X2rqL4jmTxK34kvVU40CcoBlFIa64W/view?usp=sharing).
 
-- ⚡ Fun fact: **I helped design an external human-machine interface prototype for General Motors' Level 2 autonomous vehicles.**
+- ⚡ Fun fact: **I helped design an external human-machine interface prototype for General Motors' Level 2 autonomous vehicles**.
 
 ***
 
