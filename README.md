@@ -7,13 +7,15 @@
 
 ***
 
-- 🔭 I’m currently working on [my consulting business website](https://www.dreslinconsult.com/).
+- 🔭 I’m currently working on [my personal portfolio website](https://www.brandondreslin.com/).
 
-- 👀 I’m interested in **human factors, human-computer interaction, human-machine interfaces, and UI/UX.**
+- 👀 I’m interested in **human factors, perceptual psychology, human-computer interaction, human-machine interfaces, and UI/UX.**
 
 - 👨🏽‍💻 Proficient in **Python, Java, HTML, CSS, and MySQL.**
 
-- 🌱 I’m currently learning **JavaScript, jQuery, and SCSS.**
+- 👍 Experienced with **SCSS and jQuery.**
+
+- 🌱 I’m currently learning **Tailwind CSS and Node.js.**
 
 - 📫 You can reach me at **bdreslin@gmail.com**.
 
