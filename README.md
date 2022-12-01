@@ -19,7 +19,7 @@
 
 - 📫 You can reach me at **bdreslin@gmail.com**.
 
-- 📄 Know about my experiences: [Résumé](https://drive.google.com/file/d/1D8X2rqL4jmTxK34kvVU40CcoBlFIa64W/view?usp=sharing)
+- 📄 Know about my experiences: [Résumé](https://drive.google.com/file/d/1fBgyo1VNV9NmIjrCApobeUKO3o1vkXGy/view?usp=sharing)
 
 - ⚡ Fun fact: **I helped design an external human-machine interface conceptualization for General Motors' Level 2 autonomous vehicles**.
 
