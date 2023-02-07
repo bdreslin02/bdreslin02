@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [my personal portfolio website](https://www.brandondreslin.com/).
 
-- 👀 I’m interested in **human factors, perceptual psychology, human-computer interaction, human-machine interfaces, and UI/UX.**
+- 👀 I’m interested in **human factors, vision science, automation/AI/ML, human-computer interaction, accessibility, and UI/UX.**
 
 - 👨🏽‍💻 Proficient in **Python, Java, HTML, CSS, and MySQL.**
 
-- 👍 Experienced with **SCSS and jQuery.**
+- 👍 Experienced with **JavaScript and SCSS.**
 
 - 🌱 I’m currently learning **Tailwind CSS and Node.js.**
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences: [Résumé](https://drive.google.com/file/d/1fBgyo1VNV9NmIjrCApobeUKO3o1vkXGy/view?usp=sharing)
 
-- ⚡ Fun fact: **I helped design an external human-machine interface conceptualization for General Motors' Level 2 autonomous vehicles**.
+- ⚡ Fun fact: **I am working on a project dedicated to reducing spatial disorientation among helicopter pilots during landing**.
 
 ***
 
