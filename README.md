@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [my personal portfolio website](https://www.brandondreslin.com/).
 
-- 👀 I’m interested in **human factors, human-machine teaming, machine learning vision science, accessibility, and UX.**
+- 👀 I’m interested in **human factors, human-machine teaming, machine learning, vision science, accessibility, and UX.**
 
 - 👨🏽‍💻 Proficient in **Python, Java, HTML, CSS, and MySQL.**
 
