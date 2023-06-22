@@ -19,7 +19,7 @@
 
 - 📫 You can reach me at **bdreslin@gmail.com**.
 
-- 📄 Know about my experiences: [Résumé](https://drive.google.com/file/d/1fBgyo1VNV9NmIjrCApobeUKO3o1vkXGy/view?usp=sharing)
+- 📄 Know about my experiences: [Résumé](https://drive.google.com/file/d/1anLbaW0mQSa1jGxP109cJfACXJ0Y6Vp6/view?usp=sharing)
 
 - ⚡ Fun fact: **I am working on a project dedicated to reducing spatial disorientation among helicopter pilots during landing**.
 
