@@ -21,8 +21,6 @@
 
 - 📄 Know about my experiences: [Résumé](https://drive.google.com/file/d/1anLbaW0mQSa1jGxP109cJfACXJ0Y6Vp6/view?usp=sharing)
 
-- ⚡ Fun fact: **I worked on a project that aimed to reduce spatial disorientation among helicopter pilots when landing in degraded visual environments**.
-
 ***
 
 <h3 align="center">Connect With Me:</h3>
