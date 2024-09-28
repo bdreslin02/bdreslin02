@@ -25,8 +25,8 @@
 
 <h3 align="center">Connect With Me:</h3>
 <p align="center">
-<a href="https://codepen.io/bdreslin02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bdreslin02" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bdreslin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bdreslin" height="30" width="40" /></a>
+<a href="https://codepen.io/bdreslin02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bdreslin02" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13092374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13092374" height="30" width="40" /></a>
 </p>
 <h3 align="center">Languages & Tools:</h3>
