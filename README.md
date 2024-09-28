@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Brandon!</h1>
-<h3 align="center">Human Factors PhD Student</h3>
+<h3 align="center">PhD Student</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bdreslin02&label=Profile%20views&color=0e75b6&style=flat" alt="bdreslin02" /> </p>
 
