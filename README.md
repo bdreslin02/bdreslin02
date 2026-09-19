@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Brandon</h1>
 
-### PhD Candidate in Human Factors
+<h3 align="center">PhD Candidate in Human Factors</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bdreslin02&label=Profile views&color=0e75b6&style=flat" alt="bdreslin02" /> </p>
 
