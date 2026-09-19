@@ -1,4 +1,4 @@
-# Hi 👋, I'm Brandon Dreslin
+<h1 align="center">👋 Hi, I'm Brandon</h1>
 
 ### PhD Candidate in Human Factors
 
