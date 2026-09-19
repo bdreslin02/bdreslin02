@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **human factors/ergonomics, user experience research, user experience design, and website development**
 
-- 📫 How to reach me **bdreslin@gmail.com**
+- 📫 You can reach me at **bdreslin@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[https://www.brandondreslin.com/](https://www.brandondreslin.com/)**
 
@@ -24,8 +24,8 @@
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1LCSy8IeC95oONteLO1FxXULnynPlQ8Zy/view?usp=sharing](https://drive.google.com/file/d/1LCSy8IeC95oONteLO1FxXULnynPlQ8Zy/view?usp=sharing)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://github.com/bdreslin02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="bdreslin02" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bdreslin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bdreslin" height="30" width="40" /></a>
 <a href="https://codepen.io/bdreslin02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bdreslin02" height="30" width="40" /></a>
