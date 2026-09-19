@@ -2,9 +2,9 @@
 
 ### PhD Candidate in Human Factors
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bdreslin02&label=Profile views&color=0e75b6&style=flat" alt="bdreslin02" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bdreslin02&label=Profile views&color=0e75b6&style=flat" alt="bdreslin02" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bdreslin02" alt="bdreslin02" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bdreslin02" alt="bdreslin02" /></a> </p>
 
 - 🔭 I'm currently working on **my personal portfolio website**
 
