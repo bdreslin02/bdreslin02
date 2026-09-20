@@ -22,7 +22,7 @@
 
 - 📝 I regularly write articles on **[https://www.brandondreslin.com/blogs](https://www.brandondreslin.com/blogs)**
 
-- 📄 Learn about my expertise and experiences by viewing my **[Résumé](https://drive.google.com/file/d/1LCSy8IeC95oONteLO1FxXULnynPlQ8Zy/view?usp=sharing)**
+- 📄 Learn about my expertise and experiences by viewing my **[résumé](https://drive.google.com/file/d/1LCSy8IeC95oONteLO1FxXULnynPlQ8Zy/view?usp=sharing)**
 
 <h3 align="center">Connect with Me:</h3>
 <p align="center">
