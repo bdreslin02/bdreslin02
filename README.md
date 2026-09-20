@@ -22,9 +22,9 @@
 
 - 📝 I regularly write articles on **[https://www.brandondreslin.com/blogs](https://www.brandondreslin.com/blogs)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1LCSy8IeC95oONteLO1FxXULnynPlQ8Zy/view?usp=sharing](https://drive.google.com/file/d/1LCSy8IeC95oONteLO1FxXULnynPlQ8Zy/view?usp=sharing)**
+- 📄 Learn about my expertise and experiences by viewing my **[Résumé](https://drive.google.com/file/d/1LCSy8IeC95oONteLO1FxXULnynPlQ8Zy/view?usp=sharing)**
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with Me:</h3>
 <p align="center">
 <a href="https://github.com/bdreslin02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="bdreslin02" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bdreslin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bdreslin" height="30" width="40" /></a>
